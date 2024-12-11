@@ -13,6 +13,7 @@ Hi there, I'm Andrea-254max👋
 - 📈 Building small projects to analyze datasets and practice Python programming.
 - 📊 Exploring Kaggle datasets and solving beginner-level challenges.
 - 🛠️ Working on personal projects to automate tasks and build useful tools.
+
   🌐 Let's Connect
   📸 Instagram: https://www.instagram.com/marie_muthoni6/
 - 📧 Email: mariemuthoni19@gmail.com 
